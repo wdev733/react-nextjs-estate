@@ -1,5 +1,5 @@
 {
-  "name": "yoap",
+  "name": "react-next-estate",
   "version": "0.0.1",
   "description": "The real estate platform based on React + MobX + React Router v4 + React Hot Reload v3 + Webpack 2 + sass + postcss",
   "main": "index.js",
