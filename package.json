@@ -99,7 +99,7 @@
     "jwt-decode": "^2.2.0",
     "mobx": "^3.1.9",
     "mobx-react": "^4.1.8",
-    "mongoose": "^4.9.1",
+    "mongoose": "^5.7.8",
     "nodemailer": "^4.0.1",
     "pinch-zoom": "^0.3.8",
     "pm2": "^2.4.6",
