@@ -67,7 +67,7 @@
     "json-loader": "^0.5.4",
     "mobx-react-devtools": "^4.2.11",
     "module-alias": "^2.0.0",
-    "node-fetch": "^1.6.3",
+    "node-fetch": "^2.6.1",
     "node-sass": "^4.1.1",
     "nodemon": "^1.11.0",
     "postcss-loader": "^1.2.1",
